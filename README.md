@@ -1,2 +1,2 @@
 # Volleyball Improvement and Performance Dashboard
-This was a project to help the CU women's volleyball team to improve by quantifying performance and tracking improvement
+This was a project to help the CU women's volleyball team improve by quantifying performance and tracking improvement. The code is hidden on a private repository as well as the data but here is the report of what my team and I did for this project: https://github.com/Hari-Potter03/CU_Volleyball_Performance/blob/main/BumpSetAnalyze_RschPaper%20(2).pdf
